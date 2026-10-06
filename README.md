@@ -1,0 +1,33 @@
+# Atmospheres of Absence — material
+
+Material accompanying the paper **"Atmospheres of Absence: A First-Person Method for
+Attuning to AI-Generated Spatialities in VR"** (SIGraDi 2026).
+
+This repository documents the study material for a first-person VR workshop in which
+participants moved through four AI-generated spatialities and reported on what they
+attuned to.
+
+## Contents
+
+| Folder | Files | What it is |
+|---|---|---|
+| `0 - Splats/` | 4 `.spz` | Gaussian-splat captures of the four spaces used in the VR workshop: `corridor`, `drapes`, `clay`, `grey`. |
+| `2 - Transcriptions/` | 1 `.md` | Verbatim transcripts of the four workshop sessions, one section per space. Raw output of Whisper (`tiny.en`), **without speaker diarization**; recognition errors, repetitions and model artefacts are preserved as-is and marked in the file header. |
+| `3 - Images/` | 5 `.jpg` | Method and result figures: the generation pipeline (affective axes and descriptors → DeepSeek-generated prompt → ChatGPT-generated image → Marble-generated spatiality); a 2×2 matrix of the generated spatialities along Material Warmth × Spatial Enclosure; and a magnified detail of a rendering. |
+| `3 - Images/images.af` | 1 `.af` | Affinity source file for the figures in `3 - Images/`. Large (55 MB) and only useful for further editing. |
+
+## Not included
+
+The audio recordings of the workshop sessions (9 files, ~63 MB — four spaces plus a
+closing conversation) are **not** published here. They contain identifiable voices of
+workshop participants; publication would require consent terms that we cannot assume.
+
+## Citation
+
+Full author list and publication details to be added on publication. If you use this
+material, please cite the paper above.
+
+## Licence
+
+No licence has been assigned to this material yet. Until one is added, all rights are
+reserved by the authors.

@@ -1,0 +1,3 @@
+# Keep binaries and captures byte-exact; normalise only text line endings.
+* -text
+*.md text eol=lf
